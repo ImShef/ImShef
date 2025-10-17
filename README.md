@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ImShef/ImShef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ? Привет, я Всеволод!
+# Привет, я Всеволод!
 
-## ?‍? О себе
+## О себе
 Студент колледжа 2 курса. Начинающий Back-end разработчик
 
-## ? Технический стек
+## Технический стек
 - Java
 - HTML5, CSS3
 
-## ? Контакты
+## Контакты
 - Email: shlahovvsevolod20@gmail.com
 - Telegram: @Imshefh
