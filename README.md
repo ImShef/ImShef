@@ -6,8 +6,14 @@
 
 ---
 
-### <p align="center" style="font-size: 30px;"> This me BTW</p>
-<p align="center"> <img src="https://media1.tenor.com/m/hlRVVriMy4YAAAAd/tomoko.gif" alt="Tomoko Watamote"> </p>
+<p align="center">
+  <span style="font-size:30px; font-weight:600;">This me BTW</span>
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/hlRVVriMy4YAAAAd/tomoko.gif" alt="Tomoko Watamote">
+</p>
+
 
 ## 
 
@@ -72,8 +78,14 @@
 
 ##
 
-### <p align="center" style="font-size: 30px;">Thank for visit me <3</p>
-<p align="center"> <img src="https://media1.tenor.com/m/U0jw_aRsAqAAAAAC/watamote-tomoko-kuroki.gif" alt="Tomoko Watamote"> </p>
+<p align="center">
+  <span style="font-size:30px; font-weight:600;">This me BTW</span>
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/hlRVVriMy4YAAAAd/tomoko.gif" alt="Tomoko Watamote">
+</p>
+
 
 ---
 
