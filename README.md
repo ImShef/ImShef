@@ -29,7 +29,6 @@
   </a>
 </p> 
 
-## 
 
 ### <p align="center">Socials:</p>
 
@@ -59,7 +58,6 @@
   </a>
 </p> 
 
-##
 
 ### <p align="center">GitHub Stats:</p>
 
