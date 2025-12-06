@@ -19,4 +19,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imshef&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://mynickname.com/id1839145"><img src="https://mynickname.com/img.php?nick=ImShef&sert=24&text=t4&center=true" alt="Nickname ImShef registred!" /></a>
+<p align="center"><a href="https://mynickname.com/id1839145"><img src="https://mynickname.com/img.php?nick=ImShef&sert=24&text=t4" alt="Nickname ImShef registred!" /></a></p> 
