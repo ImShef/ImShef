@@ -1,13 +1,13 @@
 <!-- MAIN HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&size=45&pause=1000&color=F729F2&center=true&vCenter=true&width=900&height=80&lines=github.com%2FImShef" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&size=45&pause=1000&color=AA7BFF&center=true&vCenter=true&width=900&height=80&lines=github.com%2FImShef" alt="Typing SVG" />
 </p>
 
 ---
 
 <!-- THIS ME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=F729F2&center=true&vCenter=true&repeat=false&width=600&height=80&lines=This+me+BTW" alt="This me BTW" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=AA7BFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=This+me+BTW" alt="This me BTW" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <!-- SKILLS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=55F7F2&center=true&vCenter=true&repeat=false&width=700&height=80&lines=My+pursuit+of+hard+skills" alt="Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=AA7BFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=My+pursuit+of+hard+skills" alt="Skills" />
 </p>
 
 <p align="center">
@@ -65,18 +65,18 @@
 
 <!-- STATS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=F72859&center=true&vCenter=true&repeat=false&width=700&height=80&lines=GitHub+Stats" alt="Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=AA7BFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=GitHub+Stats" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true&ring=ff2d95&fire=ff77c8&currStreakLabel=b900ff" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true&ring=AA7BFF&fire=AA7BFF&currStreakLabel=AA7BFF" />
 </p>
 
 ---
 
 <!-- THANK YOU -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=00F7A0&center=true&vCenter=true&repeat=false&width=800&height=80&lines=Thanks+for+visiting+me+%3C3" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=AA7BFF&center=true&vCenter=true&repeat=false&width=800&height=80&lines=Thanks+for+visiting+me+%3C3" alt="Thanks" />
 </p>
 
 <p align="center">
