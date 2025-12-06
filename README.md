@@ -6,7 +6,7 @@
 
 ---
 
-### <p align="center">My pursuit of hard skills</p>
+### <p align="center">My pursuit of hard skills: </p>
 
 <p align="center">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
@@ -31,7 +31,7 @@
 
 ## 
 
-### <p align="center">Socials</p>
+### <p align="center">Socials: </p>
 
 <p align="center">
   <a href="https://www.github.com/imshef" target="_blank" rel="noreferrer">
@@ -61,7 +61,7 @@
 
 ##
 
-### <p align="center">GitHub Stats</p>
+### <p align="center">GitHub Stats: </p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true" />
