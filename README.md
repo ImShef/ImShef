@@ -67,7 +67,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true" />
 </p>
 
-##
+---
 
 <p align="center">
   <a href="https://mynickname.com/id1839145">
