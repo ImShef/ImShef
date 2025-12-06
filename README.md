@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <span style="font-size:2rem; font-weight:600;">This me BTW</span>
+  <span style="font-size:100px; font-weight:600;">This me BTW</span>
 </p>
 
 <p align="center">
