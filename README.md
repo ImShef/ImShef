@@ -7,7 +7,7 @@
 ---
 
 ### <p align="center"> This me BTW</p>
-<p align="center"> <img src="https://media1.tenor.com/m/MESNuLbSevIAAAAC/tomoko-watamote.gif" alt="Tomoko Watamote"> </p>
+<p align="center"> <img src="https://media1.tenor.com/m/zecvxEAkVFAAAAAC/damn.gif" alt="Tomoko Watamote"> </p>
 
 
 ### <p align="center">My pursuit of hard skills:</p>
