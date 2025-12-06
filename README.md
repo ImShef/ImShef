@@ -6,9 +6,9 @@
 
 ---
 
-### <p align="center">My pursuit of hard skills:</p>
+### <p align="center"  style="font: Monocraft;">My pursuit of hard skills:</p>
 
-<p align="center" style="font = Monocraft;">
+<p align="center">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java" />
   </a>
@@ -31,7 +31,7 @@
 
 ## 
 
-### <p align="center">Socials:</p>
+### <p align="center" style="font: Monocraft;" >Socials:</p>
 
 <p align="center">
   <a href="https://www.github.com/imshef" target="_blank" rel="noreferrer">
@@ -61,7 +61,7 @@
 
 ##
 
-### <p align="center">GitHub Stats:</p>
+### <p align="center" style="font: Monocraft;" >GitHub Stats:</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true" />
