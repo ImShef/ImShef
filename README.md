@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&size=45&pause=1000&color=FF7BFF&center=true&vCenter=true&width=900&height=80&lines=github.com%2FImShef" alt="Typing SVG" />
 </p>
 
----
+##
 
 <!-- THIS ME -->
 <p align="center">
@@ -81,7 +81,7 @@
   <img src="https://media1.tenor.com/m/U0jw_aRsAqAAAAAC/watamote-tomoko-kuroki.gif" alt="Tomoko GIF">
 </p>
 
----
+##
 
 <p align="center">
   <a href="https://mynickname.com/id1839145">
