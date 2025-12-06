@@ -10,9 +10,9 @@
 <p align="center"> <img src="https://media1.tenor.com/m/MESNuLbSevIAAAAC/tomoko-watamote.gif" alt="Tomoko Watamote"> </p>
 
 
-### <p align="left">My pursuit of hard skills:</p>
+### <p align="center">My pursuit of hard skills:</p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java" />
   </a>
@@ -34,9 +34,9 @@
 </p> 
 
 
-### <p align="left">Socials:</p>
+### <p align="center">Socials:</p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.github.com/imshef" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -62,10 +62,12 @@
   </a>
 </p> 
 
+### <p align="center">Thank for visit me <3</p>
+<p align="center"> <img src="https://media1.tenor.com/m/U0jw_aRsAqAAAAAC/watamote-tomoko-kuroki.gif" alt="Tomoko Watamote"> </p>
 
-### <p align="leftr">GitHub Stats:</p>
+### <p align="center">GitHub Stats:</p>
 
-<p align="left">
+<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true" />
 </p>
 
