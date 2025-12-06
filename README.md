@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true&ring=ff2d95&fire=ff77c8&currStreakLabel=b900ff" />
 </p>
 
 ---
