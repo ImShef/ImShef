@@ -14,7 +14,7 @@
   <img src="https://media1.tenor.com/m/hlRVVriMy4YAAAAd/tomoko.gif" alt="Tomoko Watamote">
 </p>
 
----
+##
 
 <!-- SKILLS -->
 <p align="center">
@@ -42,7 +42,6 @@
   </a>
 </p>
 
----
 
 <!-- SOCIALS -->
 <p align="center">
@@ -61,7 +60,6 @@
   </a>
 </p>
 
----
 
 <!-- STATS -->
 <p align="center">
@@ -72,7 +70,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true&ring=ff7bff&fire=ff7bff&currStreakLabel=ff7bff" />
 </p>
 
----
+##
 
 <!-- THANK YOU -->
 <p align="center">
