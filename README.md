@@ -4,6 +4,8 @@
   </a>
 </p>
 
+---
+
 ## <p align="center">My pursuit of hard skills</p>
 
 <p align="center">
