@@ -27,9 +27,9 @@
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux" />
   </a>
-</p>
+</p> 
 
----
+## 
 
 ### <p align="center">Socials</p>
 
@@ -57,9 +57,9 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" />
     </picture>
   </a>
-</p>
+</p> 
 
----
+##
 
 ## <p align="center">GitHub Stats</p>
 
@@ -68,7 +68,7 @@
 </p>
 
 
----
+
 
 <p align="center">
   <a href="https://mynickname.com/id1839145">
