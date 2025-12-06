@@ -6,7 +6,7 @@
 
 ---
 
-### <p align="center"  style="font-family: Monocraft;" >My pursuit of hard skills:</p>
+### <p align="center"  style="font-family: Monocraft" >My pursuit of hard skills:</p>
 
 <p align="center">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
@@ -31,7 +31,7 @@
 
 ## 
 
-### <p align="center" style="font-family: Monocraft;" >Socials:</p>
+### <p align="center" style="font-family: Monocraft" >Socials:</p>
 
 <p align="center">
   <a href="https://www.github.com/imshef" target="_blank" rel="noreferrer">
