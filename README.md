@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&size=30&pause=1000&color=F729F2&center=true&vCenter=true&width=756&height=60&lines=github.com%2FImShef" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&size=50&pause=1000&color=F729F2&center=true&vCenter=true&width=900&height=75&lines=github.com%2FImShef" alt="Typing SVG" /></a>
 
 
 <p align="left">
