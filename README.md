@@ -62,14 +62,15 @@
   </a>
 </p> 
 
-### <p align="center">Thank for visit me <3</p>
-<p align="center"> <img src="https://media1.tenor.com/m/U0jw_aRsAqAAAAAC/watamote-tomoko-kuroki.gif" alt="Tomoko Watamote"> </p>
-
 ### <p align="center">GitHub Stats:</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true" />
 </p>
+
+
+### <p align="center">Thank for visit me <3</p>
+<p align="center"> <img src="https://media1.tenor.com/m/U0jw_aRsAqAAAAAC/watamote-tomoko-kuroki.gif" alt="Tomoko Watamote"> </p>
 
 ---
 
