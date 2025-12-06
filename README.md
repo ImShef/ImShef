@@ -1,6 +1,6 @@
 <!-- MAIN HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&size=45&pause=1000&color=FF7BFF&center=true&vCenter=true&width=900&height=80&lines=🌸github.com%2FImShef🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&size=45&pause=1000&color=FF7BFF&center=true&vCenter=true&width=900&height=80&lines=github.com%2FImShef" alt="Typing SVG" />
 </p>
 
 ##
