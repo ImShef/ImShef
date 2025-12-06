@@ -7,7 +7,7 @@
 
 <!-- THIS ME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=This+me+BTW" alt="This me BTW" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=%F0%9F%8E%80This+me+BTW%F0%9F%8E%80" alt="This me BTW" />
 </p>
 
 <p align="center">
