@@ -1,98 +1,92 @@
+<!-- MAIN HEADER -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&size=50&pause=1000&color=F729F2&center=true&vCenter=true&width=900&height=75&lines=github.com%2FImShef" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&size=45&pause=1000&color=F729F2&center=true&vCenter=true&width=900&height=80&lines=github.com%2FImShef" alt="Typing SVG" />
 </p>
 
 ---
 
+<!-- THIS ME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=40&duration=1&pause=1000&color=F729F2&center=true&vCenter=true&repeat=false&width=600&height=80&lines=This+me+BTW" alt="This me BTW" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=F729F2&center=true&vCenter=true&repeat=false&width=600&height=80&lines=This+me+BTW" alt="This me BTW" />
 </p>
-
 
 <p align="center">
   <img src="https://media1.tenor.com/m/hlRVVriMy4YAAAAd/tomoko.gif" alt="Tomoko Watamote">
 </p>
 
+---
 
-## 
-
-
-### <p align="center">My pursuit of hard skills:</p>
+<!-- SKILLS -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=55F7F2&center=true&vCenter=true&repeat=false&width=700&height=80&lines=My+pursuit+of+hard+skills" alt="Skills" />
+</p>
 
 <p align="center">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java" />
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" title="Java" />
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" title="Python" />
   </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++" />
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" title="C++" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" title="Git" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code" />
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" title="VS Code" />
   </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux" />
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" title="Linux" />
   </a>
-</p> 
+</p>
 
+---
 
-### <p align="center">Socials:</p>
+<!-- SOCIALS -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=AA7BFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Socials" alt="Socials" />
+</p>
 
 <p align="center">
-  <a href="https://www.github.com/imshef" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
+  <a href="https://github.com/imshef">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="36" height="36" />
   </a>
-
-  <a href="https://discord.com/users/imshefh" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-    </picture>
+  <a href="https://discord.com/users/imshefh">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" width="36" height="36" />
   </a>
-
-  <a href="https://www.twitch.tv/delovoysvin" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" />
-    </picture>
+  <a href="https://www.twitch.tv/delovoysvin">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" width="36" height="36" />
   </a>
-</p> 
+</p>
 
-### <p align="center">GitHub Stats:</p>
+---
+
+<!-- STATS -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=F72859&center=true&vCenter=true&repeat=false&width=700&height=80&lines=GitHub+Stats" alt="Stats" />
+</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true" />
 </p>
 
-##
+---
 
+<!-- THANK YOU -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=40&duration=1&pause=1000&color=F729F2&center=true&vCenter=true&repeat=false&width=800&height=80&lines=Thank+for+visit+me+%3C3" alt="Thanks for visit" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=00F7A0&center=true&vCenter=true&repeat=false&width=800&height=80&lines=Thanks+for+visiting+me+%3C3" alt="Thanks" />
 </p>
 
-
 <p align="center">
-  <img src="https://media1.tenor.com/m/hlRVVriMy4YAAAAd/tomoko.gif" alt="Tomoko Watamote">
+  <img src="https://media1.tenor.com/m/U0jw_aRsAqAAAAAC/watamote-tomoko-kuroki.gif" alt="Tomoko GIF">
 </p>
-
 
 ---
 
 <p align="center">
   <a href="https://mynickname.com/id1839145">
-    <img src="https://mynickname.com/img.php?nick=ImShef&sert=24&text=t4" alt="Nickname ImShef registered!" />
+    <img src="https://mynickname.com/img.php?nick=ImShef&sert=24&text=t4" alt="Nickname ImShef" />
   </a>
 </p>
