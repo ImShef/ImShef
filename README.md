@@ -4,8 +4,6 @@
   </a>
 </p>
 
----
-
 ### <p align="center">My pursuit of hard skills</p>
 
 <p align="center">
@@ -29,7 +27,6 @@
   </a>
 </p>
 
----
 
 ### <p align="center">Socials</p>
 
@@ -59,21 +56,13 @@
   </a>
 </p>
 
----
 
 # <p align="center">GitHub Stats</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imshef&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshef&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
 
 ---
 
