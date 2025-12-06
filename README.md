@@ -7,8 +7,9 @@
 ---
 
 <p align="center">
-  <span style="font-size:100px; font-weight:600;">This me BTW</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=40&duration=1&pause=1000&color=F729F2&center=true&vCenter=true&repeat=false&width=600&height=80&lines=This+me+BTW" alt="This me BTW" />
 </p>
+
 
 <p align="center">
   <img src="https://media1.tenor.com/m/hlRVVriMy4YAAAAd/tomoko.gif" alt="Tomoko Watamote">
@@ -79,8 +80,9 @@
 ##
 
 <p align="center">
-  <span style="font-size:2rem; font-weight:600;">This me BTW</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=40&duration=1&pause=1000&color=F729F2&center=true&vCenter=true&repeat=false&width=800&height=80&lines=Thank+for+visit+me+%3C3" alt="Thanks for visit" />
 </p>
+
 
 <p align="center">
   <img src="https://media1.tenor.com/m/hlRVVriMy4YAAAAd/tomoko.gif" alt="Tomoko Watamote">
