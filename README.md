@@ -63,7 +63,7 @@
 
 <!-- STATS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=%E2%AD%90%EF%B8%8FGitHub+Stats%E2%AD%90%EF%B8%8F" alt="Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=%F0%9F%92%98GitHub+Stats%F0%9F%92%98" alt="Stats" />
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@
 
 <!-- THANK YOU -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=800&height=80&lines=%F0%9F%92%96Thanks+for+visiting+me+%3C3%F0%9F%92%96" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=800&height=80&lines=%F0%9F%92%98Thanks+for+visiting+me+%F0%9F%92%98" alt="Thanks" />
 </p>
 
 <p align="center">
