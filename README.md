@@ -62,46 +62,26 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&pause=999999&color=FF7BFF&center=true&vCenter=true&width=850&height=80&lines=%F0%9F%92%93My+pursuit+of+hard+skills%F0%9F%92%93" />
 </p>
+
 <p align="center" style="margin-top: 10px;">
-
-<p align="center">
-
-  <!-- Java -->
   <a href="https://www.oracle.com/java/">
-    <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/jp.svg"
-         width="40" title="Java" style="border-radius: 50%; filter: hue-rotate(300deg) brightness(1.9) saturate(3);" />
+    <img src="https://api.iconify.design/logos:java.svg?color=%23ff7bff" width="38" alt="Java" />
   </a>
-
-  <!-- Python -->
   <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"
-         width="40" style="filter: hue-rotate(300deg) brightness(1.9) saturate(3);" />
+    <img src="https://api.iconify.design/logos:python.svg?color=%23ff7bff" width="38" alt="Python" />
   </a>
-
-  <!-- C++ -->
-  <a href="https://learn.microsoft.com/en-us/cpp/">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg"
-         width="40" style="filter: hue-rotate(300deg) brightness(1.9) saturate(3);" />
+  <a href="https://docs.microsoft.com/en-us/cpp/">
+    <img src="https://api.iconify.design/logos:c-plusplus.svg?color=%23ff7bff" width="38" alt="C++" />
   </a>
-
-  <!-- Git -->
   <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"
-         width="40" style="filter: hue-rotate(300deg) brightness(1.9) saturate(3);" />
+    <img src="https://api.iconify.design/mdi/git.svg?color=%23ff7bff" width="38" alt="Git" />
   </a>
-
-  <!-- VSCode -->
   <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg"
-         width="40" style="filter: hue-rotate(300deg) brightness(1.9) saturate(3);" />
+    <img src="https://api.iconify.design/mdi/visual-studio-code.svg?color=%23ff7bff" width="38" alt="VS Code" />
   </a>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"
-         width="40" style="filter: hue-rotate(300deg) brightness(1.9) saturate(3);" />
+  <a href="https://www.linux.org/">
+    <img src="https://api.iconify.design/mdi/linux.svg?color=%23ff7bff" width="38" alt="Linux" />
   </a>
-
 </p>
 
 
