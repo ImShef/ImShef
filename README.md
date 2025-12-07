@@ -49,11 +49,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/imshef">
-    <img src="https://img.shields.io/badge/GitHub-ImShef-ff7bff?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/imshefh">
+    <img src="https://img.shields.io/badge/GitHub-ImShefh-ff7bff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://discord.com/users/imshefh">
-    <img src="https://img.shields.io/badge/Discord-ImShef-ff29ff?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-ImShefh-ff29ff?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.twitch.tv/delovoysvin">
     <img src="https://img.shields.io/badge/Twitch-delovoysvin-ff9dff?style=for-the-badge&logo=twitch&logoColor=white" />
@@ -61,14 +61,6 @@
 </p>
 
 
-<!-- STATS -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=%F0%9F%92%96GitHub+Stats%F0%9F%92%96" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imshef&theme=dark&hide_border=true&ring=ff7bff&fire=ff7bff&currStreakLabel=ff7bff" />
-</p>
 
 ##
 
