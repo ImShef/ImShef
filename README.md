@@ -107,8 +107,9 @@
 
 <!-- SOCIALS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=700&height=70&lines=💞+My+Social+Links+💞" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=32&pause=999999&color=FF7BFF&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%92%9E+My+Social+Links+%F0%9F%92%9E" />
 </p>
+
 
 <p align="center">
 
