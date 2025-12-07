@@ -45,7 +45,7 @@
 
 <!-- SOCIALS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=%F0%9F%92%9ESocials%F0%9F%92%9E" alt="Socials" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=%F0%9F%92%93Socials%F0%9F%92%93" alt="Socials" />
 </p>
 
 <p align="center">
