@@ -112,19 +112,21 @@
 
 
 <p align="center">
+
   <a href="https://github.com/ImShefh">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="55" style="filter:hue-rotate(300deg) brightness(2) saturate(2); border-radius:50%;" />
+    <img src="https://raw.githubusercontent.com/AmethystNetworkDev/NeonIcons/main/github-pink.svg" width="55" />
   </a>
 
   <a href="https://discord.com/users/ImShefh">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" width="55" style="filter:hue-rotate(300deg) brightness(2) saturate(2); border-radius:50%;" />
+    <img src="https://raw.githubusercontent.com/AmethystNetworkDev/NeonIcons/main/discord-pink.svg" width="55" />
   </a>
 
   <a href="https://www.twitch.tv/delovoysvin">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitch.svg" width="55" style="filter:hue-rotate(300deg) brightness(2) saturate(2); border-radius:50%;" />
+    <img src="https://raw.githubusercontent.com/AmethystNetworkDev/NeonIcons/main/twitch-pink.svg" width="55" />
   </a>
 
   <a href="https://t.me/Imshefh">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" width="55" style="filter: hue-rotate(300deg) brightness(2) saturate(2); border-radius: 50%;" />
+    <img src="https://raw.githubusercontent.com/AmethystNetworkDev/NeonIcons/main/telegram-pink.svg" width="55" />
   </a>
+
 </p>
