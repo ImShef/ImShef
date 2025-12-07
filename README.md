@@ -5,8 +5,9 @@
 
 <!-- DIVIDER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=620&height=60&lines=✿+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+✿" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=620&height=60&lines=%E2%9C%BF+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+%E2%9C%BF" />
 </p>
+
 
 <!-- THIS ME -->
 <p align="center">
@@ -53,8 +54,9 @@
 
 <!-- DIVIDER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=620&height=60&lines=✿+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+✿" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=620&height=60&lines=%E2%9C%BF+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+%E2%9C%BF" />
 </p>
+
 
 <!-- SKILLS -->
 <p align="center">
@@ -85,7 +87,7 @@
 
 <!-- DIVIDER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=620&height=60&lines=✿+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+✿" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=620&height=60&lines=%E2%9C%BF+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+%E2%9C%BF" />
 </p>
 
 <!-- THANK YOU -->
@@ -99,8 +101,9 @@
 
 <!-- DIVIDER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=620&height=60&lines=✿+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+✿" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=620&height=60&lines=%E2%9C%BF+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+%E2%9C%BF" />
 </p>
+
 
 <!-- SOCIALS -->
 <p align="center">
