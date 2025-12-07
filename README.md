@@ -6,14 +6,14 @@
 <!-- DIVIDER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=1200&pause=800&color=FF7BFF&center=true&vCenter=true&width=600&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~+~+~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~+~+~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~+~+~+(o_o)%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=2000&pause=3000&color=FF7BFF&center=true&vCenter=true&width=600&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~+~+~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~+~+~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~+~+~+(o_o)%3F" 
   />
 </p>
 
 
 <!-- THIS ME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&pause=999999&color=FF7BFF&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%8E%80This+me+BTW%F0%9F%8E%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=2500&pause=3000&color=FF7BFF&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%8E%80This+me+BTW%F0%9F%8E%80" />
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 <!-- DIVIDER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=1200&pause=800&color=FF7BFF&center=true&vCenter=true&width=600&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~+~+~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~+~+~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~+~+~+(o_o)%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=2000&pause=3000&color=FF7BFF&center=true&vCenter=true&width=600&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~+~+~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~+~+~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~+~+~+(o_o)%3F" 
   />
 </p>
 
@@ -64,7 +64,7 @@
 
 <!-- SKILLS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&pause=999999&color=FF7BFF&center=true&vCenter=true&width=850&height=80&lines=%F0%9F%92%93My+pursuit+of+hard+skills%F0%9F%92%93" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=2500&pause=3000&color=FF7BFF&center=true&vCenter=true&width=850&height=80&lines=%F0%9F%92%93My+pursuit+of+hard+skills%F0%9F%92%93" />
 </p>
 
 <p align="center" style="margin-top: 10px;">
@@ -109,14 +109,14 @@
 <!-- DIVIDER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=1200&pause=800&color=FF7BFF&center=true&vCenter=true&width=600&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~+~+~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~+~+~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~+~+~+(o_o)%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=2000&pause=3000&color=FF7BFF&center=true&vCenter=true&width=600&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~+~+~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~+~+~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~+~+~+(o_o)%3F" 
   />
 </p>
 
 
 <!-- THANK YOU -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=36&pause=999999&color=FF7BFF&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%92%98Thanks+for+visiting+me+%F0%9F%92%98" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=36&duration=2500&pause=3000&color=FF7BFF&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%92%98Thanks+for+visiting+me+%F0%9F%92%98" />
 </p>
 
 <p align="center">
@@ -126,14 +126,14 @@
 <!-- DIVIDER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=1200&pause=800&color=FF7BFF&center=true&vCenter=true&width=600&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~+~+~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~+~+~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~+~+~+(o_o)%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=2000&pause=3000&color=FF7BFF&center=true&vCenter=true&width=600&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~+~+~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~+~+~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~+~+~+(o_o)%3F" 
   />
 </p>
 
 
 <!-- SOCIALS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=32&pause=999999&color=FF7BFF&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%92%9E+My+Social+Links+%F0%9F%92%9E" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=32&duration=2500&pause=3000&color=FF7BFF&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%92%9E+My+Social+Links+%F0%9F%92%9E" />
 </p>
 
 
