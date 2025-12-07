@@ -66,35 +66,28 @@
 
 <p align="center">
 
-  <!-- Java -->
   <a href="https://www.oracle.com/java/">
-    <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png100px/jp.png" width="0">
-    <img src="https://raw.githubusercontent.com/ImShef-Assets/pink-icons/main/java_pink.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/mallowigi/a-file-icon-vscode/icons/files/java_light.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.8) saturate(3);" />
   </a>
 
-  <!-- Python -->
   <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/ImShef-Assets/pink-icons/main/python_pink.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.8) saturate(3);" />
   </a>
 
-  <!-- C++ -->
   <a href="https://learn.microsoft.com/en-us/cpp/">
-    <img src="https://raw.githubusercontent.com/ImShef-Assets/pink-icons/main/cpp_pink.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.8) saturate(3);" />
   </a>
 
-  <!-- Git -->
   <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/ImShef-Assets/pink-icons/main/git_pink.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.8) saturate(3);" />
   </a>
 
-  <!-- VS Code -->
   <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/ImShef-Assets/pink-icons/main/vscode_pink.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.8) saturate(3);" />
   </a>
 
-  <!-- Linux -->
-  <a href="https://www.linux.org">
-    <img src="https://raw.githubusercontent.com/ImShef-Assets/pink-icons/main/linux_pink.svg" width="40">
+  <a href="https://www.linux.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.8) saturate(3);" />
   </a>
 
 </p>
