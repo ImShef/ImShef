@@ -1,83 +1,128 @@
 <!-- MAIN HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&size=45&pause=1000&color=FF7BFF&center=true&vCenter=true&width=900&height=80&lines=%F0%9F%8C%B8github.com%2FImShefh%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=900&size=45&pause=1000&color=FF7BFF&center=true&vCenter=true&width=900&height=80&lines=%F0%9F%8C%B8github.com%2FImShefh%F0%9F%8C%B8" />
 </p>
 
-##
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=620&height=60&lines=✿+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+✿" />
+</p>
 
 <!-- THIS ME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=%F0%9F%8E%80This+me+BTW%F0%9F%8E%80" alt="This me BTW" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&pause=999999&color=FF7BFF&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%8E%80This+me+BTW%F0%9F%8E%80" />
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/hlRVVriMy4YAAAAd/tomoko.gif" alt="Tomoko Watamote">
+  <img src="https://media1.tenor.com/m/hlRVVriMy4YAAAAd/tomoko.gif" height="230" />
 </p>
 
-##
+
+<!-- DESCRIPTION BLOCKS (WITH ASCII KAOMOJI) -->
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=22&duration=4000&pause=4000&color=FF85FF&center=true&vCenter=true&width=800&height=80&lines=U-uh...+h-hi...+%28%2F%2F%3E_%3C%2F%2F%29;I-I'm+not+really+good+at+introductions..." />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=22&duration=4000&pause=4000&color=FF85FF&center=true&vCenter=true&width=900&height=80&lines=Um...+w-welcome+to+my+page+I+guess...?;Sorry+if+this+is+awkward...+%28%5E_%5E%3B%29" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=22&duration=4000&pause=4000&color=FF85FF&center=true&vCenter=true&width=900&height=80&lines=I+like+coding,+anime,+pink+stuff...;and+staying+up+way+too+late...+%28%3E_%3C%29" />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=22&duration=4000&pause=4000&color=FF85FF&center=true&vCenter=true&width=900&height=80&lines=I'm+trying+my+best...;even+tho+my+brain+is+like+%28o_o%29%3F+all+the+time" />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=22&duration=4000&pause=4000&color=FF85FF&center=true&vCenter=true&width=1000&height=80&lines=If+you+think+this+page+is+cute...;I-it's+not+like+that+makes+me+happy+or+anything!!;B-baka+%3E%3C" />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=22&duration=4000&pause=4000&color=FF85FF&center=true&vCenter=true&width=1000&height=80&lines=Thanks+for+being+here...;Even+if+it's+by+accident...;It+still+means+a+lot+to+me+%28%5E%5F%5E%29%E2%9C%A8" />
+</p>
+
+
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=620&height=60&lines=✿+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+✿" />
+</p>
 
 <!-- SKILLS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=800&height=80&lines=%F0%9F%92%93My+pursuit+of+hard+skills%F0%9F%92%93" alt="Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&pause=999999&color=FF7BFF&center=true&vCenter=true&width=850&height=80&lines=%F0%9F%92%93My+pursuit+of+hard+skills%F0%9F%92%93" />
 </p>
 
 <p align="center">
   <a href="https://www.oracle.com/java/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" title="Java" />
+    <img src="https://skillicons.dev/icons?i=java" width="50" style="filter:hue-rotate(300deg) brightness(1.7) saturate(2);" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" title="Python" />
+    <img src="https://skillicons.dev/icons?i=python" width="50" style="filter:hue-rotate(300deg) brightness(1.7) saturate(2);" />
   </a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" title="C++" />
+    <img src="https://skillicons.dev/icons?i=cpp" width="50" style="filter:hue-rotate(300deg) brightness(1.7) saturate(2);" />
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" title="Git" />
+    <img src="https://skillicons.dev/icons?i=git" width="50" style="filter:hue-rotate(300deg) brightness(1.7) saturate(2);" />
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" title="VS Code" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="50" style="filter:hue-rotate(300deg) brightness(1.7) saturate(2);" />
   </a>
   <a href="https://www.linux.org">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" title="Linux" />
+    <img src="https://skillicons.dev/icons?i=linux" width="50" style="filter:hue-rotate(300deg) brightness(1.7) saturate(2);" />
   </a>
 </p>
 
 
-<!-- SOCIALS -->
+<!-- DIVIDER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=%F0%9F%92%9ESocials%F0%9F%92%9E" alt="Socials" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=620&height=60&lines=✿+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+✿" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/imshef">
-    <img src="https://img.shields.io/badge/GitHub-ImShef-ff7bff?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/imshefh">
-    <img src="https://img.shields.io/badge/Discord-ImShef-ff29ff?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.twitch.tv/delovoysvin">
-    <img src="https://img.shields.io/badge/Twitch-delovoysvin-ff9dff?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-</p>
-
-
-
-
-##
 
 <!-- THANK YOU -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=800&height=80&lines=%F0%9F%92%98Thanks+for+visiting+me+%F0%9F%92%98" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=36&pause=999999&color=FF7BFF&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%92%98Thanks+for+visiting+me+%F0%9F%92%98" />
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/U0jw_aRsAqAAAAAC/watamote-tomoko-kuroki.gif" alt="Tomoko GIF">
+  <img src="https://media1.tenor.com/m/U0jw_aRsAqAAAAAC/watamote-tomoko-kuroki.gif" height="210" />
 </p>
 
-##
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=999999&color=FF7BFF&center=true&vCenter=true&width=620&height=60&lines=✿+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+✿" />
+</p>
+
+<!-- SOCIALS -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=32&pause=999999&color=FF7BFF&center=true&vCenter=true&width=700&height=70&lines=💞+My+Social+Links+💞" />
+</p>
 
 <p align="center">
-  <a href="https://mynickname.com/id1839145">
-    <img src="https://mynickname.com/img.php?nick=ImShef&sert=24&text=t4" alt="Nickname ImShef" />
+
+  <a href="https://github.com/ImShefh">
+    <img src="https://skillicons.dev/icons?i=github" width="55" style="filter: hue-rotate(300deg) brightness(1.8) saturate(2);" />
   </a>
+
+  <a href="https://discord.com/users/ImShefh">
+    <img src="https://skillicons.dev/icons?i=discord" width="55" style="filter: hue-rotate(300deg) brightness(1.8) saturate(2);" />
+  </a>
+
+  <a href="https://www.twitch.tv/delovoysvin">
+    <img src="https://skillicons.dev/icons?i=twitch" width="55" style="filter: hue-rotate(300deg) brightness(1.8) saturate(2);" />
+  </a>
+
+  <a href="https://t.me/Imshefh">
+    <img src="https://skillicons.dev/icons?i=telegram" width="55" style="filter: hue-rotate(300deg) brightness(1.8) saturate(2);" />
+  </a>
+
 </p>
