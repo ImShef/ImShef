@@ -6,20 +6,7 @@
 <!-- DIVIDER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?
-font=Monocraft&
-size=24&
-duration=900&
-pause=900&
-color=FF8BFF&
-center=true&
-vCenter=true&
-width=1200&
-height=65&
-lines=(%2A%20%3E﹏%3C%20%2A)~~~~~(%2F%2F%3E_%3C%2F%2F)~~~~~(%5E%5F%5E%3B)~~~~~(%3E%2F%2F%3C)~~~~~(o%5Fo)%3F;
-(%2A%20%3E_%3C%20%2A)~~~(%2F%2F%3E﹏%3C%2F%2F)~~~(%2A%20%5E_%5E%20%2A)~~~(%3E%5F%3C)~~~(%2A%20%3E%2F%2F%3C%20%2A);
-(%3E﹏%3C)~~~~(%5E%5F%5E)~~~~(%2A%20%3E_%3C%20%2A)~~~~(%28o_o%29)%3F~~~~(%2F%2F%3E﹏%3C%2F%2F)
-" 
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=1200&pause=800&color=FF7BFF&center=true&vCenter=true&width=600&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~+~+~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~+~+~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~+~+~+(o_o)%3F" 
   />
 </p>
 
@@ -69,22 +56,10 @@ lines=(%2A%20%3E﹏%3C%20%2A)~~~~~(%2F%2F%3E_%3C%2F%2F)~~~~~(%5E%5F%5E%3B)~~~~~(
 <!-- DIVIDER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?
-font=Monocraft&
-size=24&
-duration=900&
-pause=900&
-color=FF8BFF&
-center=true&
-vCenter=true&
-width=1200&
-height=65&
-lines=(%2A%20%3E﹏%3C%20%2A)~~~~~(%2F%2F%3E_%3C%2F%2F)~~~~~(%5E%5F%5E%3B)~~~~~(%3E%2F%2F%3C)~~~~~(o%5Fo)%3F;
-(%2A%20%3E_%3C%20%2A)~~~(%2F%2F%3E﹏%3C%2F%2F)~~~(%2A%20%5E_%5E%20%2A)~~~(%3E%5F%3C)~~~(%2A%20%3E%2F%2F%3C%20%2A);
-(%3E﹏%3C)~~~~(%5E%5F%5E)~~~~(%2A%20%3E_%3C%20%2A)~~~~(%28o_o%29)%3F~~~~(%2F%2F%3E﹏%3C%2F%2F)
-" 
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=1200&pause=800&color=FF7BFF&center=true&vCenter=true&width=600&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~+~+~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~+~+~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~+~+~+(o_o)%3F" 
   />
 </p>
+
 
 
 <!-- SKILLS -->
@@ -134,22 +109,10 @@ lines=(%2A%20%3E﹏%3C%20%2A)~~~~~(%2F%2F%3E_%3C%2F%2F)~~~~~(%5E%5F%5E%3B)~~~~~(
 <!-- DIVIDER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?
-font=Monocraft&
-size=24&
-duration=900&
-pause=900&
-color=FF8BFF&
-center=true&
-vCenter=true&
-width=1200&
-height=65&
-lines=(%2A%20%3E﹏%3C%20%2A)~~~~~(%2F%2F%3E_%3C%2F%2F)~~~~~(%5E%5F%5E%3B)~~~~~(%3E%2F%2F%3C)~~~~~(o%5Fo)%3F;
-(%2A%20%3E_%3C%20%2A)~~~(%2F%2F%3E﹏%3C%2F%2F)~~~(%2A%20%5E_%5E%20%2A)~~~(%3E%5F%3C)~~~(%2A%20%3E%2F%2F%3C%20%2A);
-(%3E﹏%3C)~~~~(%5E%5F%5E)~~~~(%2A%20%3E_%3C%20%2A)~~~~(%28o_o%29)%3F~~~~(%2F%2F%3E﹏%3C%2F%2F)
-" 
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=1200&pause=800&color=FF7BFF&center=true&vCenter=true&width=600&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~+~+~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~+~+~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~+~+~+(o_o)%3F" 
   />
 </p>
+
 
 <!-- THANK YOU -->
 <p align="center">
@@ -163,20 +126,7 @@ lines=(%2A%20%3E﹏%3C%20%2A)~~~~~(%2F%2F%3E_%3C%2F%2F)~~~~~(%5E%5F%5E%3B)~~~~~(
 <!-- DIVIDER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?
-font=Monocraft&
-size=24&
-duration=900&
-pause=900&
-color=FF8BFF&
-center=true&
-vCenter=true&
-width=1200&
-height=65&
-lines=(%2A%20%3E﹏%3C%20%2A)~~~~~(%2F%2F%3E_%3C%2F%2F)~~~~~(%5E%5F%5E%3B)~~~~~(%3E%2F%2F%3C)~~~~~(o%5Fo)%3F;
-(%2A%20%3E_%3C%20%2A)~~~(%2F%2F%3E﹏%3C%2F%2F)~~~(%2A%20%5E_%5E%20%2A)~~~(%3E%5F%3C)~~~(%2A%20%3E%2F%2F%3C%20%2A);
-(%3E﹏%3C)~~~~(%5E%5F%5E)~~~~(%2A%20%3E_%3C%20%2A)~~~~(%28o_o%29)%3F~~~~(%2F%2F%3E﹏%3C%2F%2F)
-" 
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=1200&pause=800&color=FF7BFF&center=true&vCenter=true&width=600&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~+~+~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~+~+~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~+~+~+(o_o)%3F" 
   />
 </p>
 
