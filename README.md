@@ -65,8 +65,9 @@
 
 <p align="center" style="margin-top: 10px;">
 
+  <!-- Java -->
   <a href="https://www.oracle.com/java/">
-    <img src="https://api.iconify.design/simple-icons:java.svg?color=%23ff7bff" width="37" />
+    <img src="https://icongr.am/simple/java.svg?size=40&color=ff7bff" />
   </a>
 
   <a href="https://www.python.org/">
