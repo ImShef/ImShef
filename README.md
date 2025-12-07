@@ -62,40 +62,46 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&pause=999999&color=FF7BFF&center=true&vCenter=true&width=850&height=80&lines=%F0%9F%92%93My+pursuit+of+hard+skills%F0%9F%92%93" />
 </p>
-
-<p align="center">
+<p align="center" style="margin-top: 10px;">
 
   <!-- Java -->
   <a href="https://www.oracle.com/java/">
-    <img src="https://api.iconify.design/logos:java.svg?color=%23ff7bff" width="55" />
+    <img src="https://api.iconify.design/logos:java.svg" width="38" 
+         style="filter: drop-shadow(0 0 6px #ff7bff) brightness(1.4) saturate(1.8) hue-rotate(300deg);" />
   </a>
 
   <!-- Python -->
   <a href="https://www.python.org/">
-    <img src="https://api.iconify.design/logos:python.svg?color=%23ff7bff" width="55" />
+    <img src="https://api.iconify.design/logos:python.svg" width="38" 
+         style="filter: drop-shadow(0 0 6px #ff7bff) brightness(1.4) saturate(1.8) hue-rotate(300deg);" />
   </a>
 
   <!-- C++ -->
   <a href="https://docs.microsoft.com/en-us/cpp/">
-    <img src="https://api.iconify.design/logos:c-plusplus.svg?color=%23ff7bff" width="55" />
+    <img src="https://api.iconify.design/logos:c-plusplus.svg" width="38"
+         style="filter: drop-shadow(0 0 6px #ff7bff) brightness(1.4) saturate(1.8) hue-rotate(300deg);" />
   </a>
 
   <!-- Git -->
   <a href="https://git-scm.com/">
-    <img src="https://api.iconify.design/logos:git-icon.svg?color=%23ff7bff" width="55" />
+    <img src="https://api.iconify.design/logos:git-icon.svg" width="38"
+         style="filter: drop-shadow(0 0 6px #ff7bff) brightness(1.4) saturate(1.8) hue-rotate(300deg);" />
   </a>
 
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/">
-    <img src="https://api.iconify.design/logos:visual-studio-code.svg?color=%23ff7bff" width="55" />
+    <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="38"
+         style="filter: drop-shadow(0 0 6px #ff7bff) brightness(1.4) saturate(1.8) hue-rotate(300deg);" />
   </a>
 
   <!-- Linux -->
   <a href="https://www.linux.org">
-    <img src="https://api.iconify.design/logos:linux-tux.svg?color=%23ff7bff" width="55" />
+    <img src="https://api.iconify.design/logos:linux-tux.svg" width="38"
+         style="filter: drop-shadow(0 0 6px #ff7bff) brightness(1.4) saturate(1.8) hue-rotate(300deg);" />
   </a>
 
 </p>
+
 
 
 
