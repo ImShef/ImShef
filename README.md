@@ -18,7 +18,7 @@
 
 <!-- SKILLS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=%F0%9F%92%96My+pursuit+of+hard+skills%F0%9F%92%96" alt="Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=%F0%9F%92%96+My+pursuit+of+hard+skills+%F0%9F%92%96" alt="Skills" />
 </p>
 
 <p align="center">
