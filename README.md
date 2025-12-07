@@ -66,7 +66,7 @@
 <p align="center" style="margin-top: 10px;">
   <!-- Java -->
   <a href="https://www.oracle.com/java/">
-    <img src="https://icongr.am/simple/java.svg?size=40&color=ff7bff" />
+    <img src="https://icongr.am/simple/java.svg?size=40&color=ff7bff" width="40" />
   </a>
 
   <!-- Python -->
