@@ -134,19 +134,19 @@
 <p align="center">
 
   <a href="https://github.com/ImShefh">
-    <img src="https://api.iconify.design/mdi/github.svg?color=%23ff7bff" width="30" />
+    <img src="https://api.iconify.design/mdi/github.svg?color=%23ff7bff" width="45" />
   </a>
 
   <a href="https://discord.com/users/ImShefh">
-    <img src="https://api.iconify.design/mdi/discord.svg?color=%23ff7bff" width="55" />
+    <img src="https://api.iconify.design/mdi/discord.svg?color=%23ff7bff" width="45" />
   </a>
 
   <a href="https://www.twitch.tv/delovoysvin">
-    <img src="https://api.iconify.design/mdi/twitch.svg?color=%23ff7bff" width="55" />
+    <img src="https://api.iconify.design/mdi/twitch.svg?color=%23ff7bff" width="45" />
   </a>
 
   <a href="https://t.me/Imshefh">
-    <img src="https://api.iconify.design/mdi/telegram.svg?color=%23ff7bff" width="55" />
+    <img src="https://api.iconify.design/mdi/telegram.svg?color=%23ff7bff" width="45" />
   </a>
 
 </p>
