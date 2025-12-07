@@ -134,7 +134,7 @@
 <p align="center">
 
   <a href="https://github.com/ImShefh">
-    <img src="https://api.iconify.design/mdi/github.svg?color=%23ff7bff" width="55" />
+    <img src="https://api.iconify.design/mdi/github.svg?color=%23ff7bff" width="30" />
   </a>
 
   <a href="https://discord.com/users/ImShefh">
