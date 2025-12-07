@@ -64,25 +64,38 @@
 </p>
 
 <p align="center" style="margin-top: 10px;">
+  <!-- Java -->
   <a href="https://www.oracle.com/java/">
-    <img src="https://api.iconify.design/logos:java.svg?color=%23ff7bff" width="38" alt="Java" />
+    <img src="https://api.iconify.design/simple-icons:java.svg?color=%23ff7bff" width="40" />
   </a>
+
+  <!-- Python -->
   <a href="https://www.python.org/">
-    <img src="https://api.iconify.design/logos:python.svg?color=%23ff7bff" width="38" alt="Python" />
+    <img src="https://api.iconify.design/simple-icons:python.svg?color=%23ff7bff" width="40" />
   </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/">
-    <img src="https://api.iconify.design/logos:c-plusplus.svg?color=%23ff7bff" width="38" alt="C++" />
+
+  <!-- C++ -->
+  <a href="https://isocpp.org/">
+    <img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%23ff7bff" width="40" />
   </a>
+
+  <!-- Git -->
   <a href="https://git-scm.com/">
-    <img src="https://api.iconify.design/mdi/git.svg?color=%23ff7bff" width="38" alt="Git" />
+    <img src="https://api.iconify.design/simple-icons:git.svg?color=%23ff7bff" width="40" />
   </a>
+
+  <!-- VSCode -->
   <a href="https://code.visualstudio.com/">
-    <img src="https://api.iconify.design/mdi/visual-studio-code.svg?color=%23ff7bff" width="38" alt="VS Code" />
+    <img src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23ff7bff" width="40" />
   </a>
+
+  <!-- Linux -->
   <a href="https://www.linux.org/">
-    <img src="https://api.iconify.design/mdi/linux.svg?color=%23ff7bff" width="38" alt="Linux" />
+    <img src="https://api.iconify.design/simple-icons:linux.svg?color=%23ff7bff" width="40" />
   </a>
+
 </p>
+
 
 
 
