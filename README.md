@@ -66,28 +66,40 @@
 
 <p align="center">
 
+  <!-- Java -->
   <a href="https://www.oracle.com/java/">
-    <img src="https://cdn.jsdelivr.net/gh/mallowigi/a-file-icon-vscode/icons/files/java_light.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.8) saturate(3);" />
+    <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/jp.svg"
+         width="40" title="Java" style="border-radius: 50%; filter: hue-rotate(300deg) brightness(1.9) saturate(3);" />
   </a>
 
+  <!-- Python -->
   <a href="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.8) saturate(3);" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"
+         width="40" style="filter: hue-rotate(300deg) brightness(1.9) saturate(3);" />
   </a>
 
+  <!-- C++ -->
   <a href="https://learn.microsoft.com/en-us/cpp/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.8) saturate(3);" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg"
+         width="40" style="filter: hue-rotate(300deg) brightness(1.9) saturate(3);" />
   </a>
 
+  <!-- Git -->
   <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.8) saturate(3);" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"
+         width="40" style="filter: hue-rotate(300deg) brightness(1.9) saturate(3);" />
   </a>
 
+  <!-- VSCode -->
   <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.8) saturate(3);" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg"
+         width="40" style="filter: hue-rotate(300deg) brightness(1.9) saturate(3);" />
   </a>
 
-  <a href="https://www.linux.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.8) saturate(3);" />
+  <!-- Linux -->
+  <a href="https://www.linux.org">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"
+         width="40" style="filter: hue-rotate(300deg) brightness(1.9) saturate(3);" />
   </a>
 
 </p>
