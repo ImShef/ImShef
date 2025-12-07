@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/hlRVVriMy4YAAAAd/tomoko.gif" height="230" />
+  <img src="https://media1.tenor.com/m/hlRVVriMy4YAAAAd/tomoko.gif" height="400" />
 </p>
 
 
@@ -116,7 +116,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/U0jw_aRsAqAAAAAC/watamote-tomoko-kuroki.gif" height="210" />
+  <img src="https://media1.tenor.com/m/U0jw_aRsAqAAAAAC/watamote-tomoko-kuroki.gif" height="400" />
 </p>
 
 <!-- DIVIDER -->
