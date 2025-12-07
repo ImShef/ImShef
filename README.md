@@ -64,25 +64,39 @@
 </p>
 
 <p align="center">
+
+  <!-- Java -->
   <a href="https://www.oracle.com/java/">
-    <img src="https://skillicons.dev/icons?i=java" width="50" style="filter:hue-rotate(300deg) brightness(1.7) saturate(2);" />
+    <img src="https://api.iconify.design/logos:java.svg?color=%23ff7bff" width="55" />
   </a>
+
+  <!-- Python -->
   <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" width="50" style="filter:hue-rotate(300deg) brightness(1.7) saturate(2);" />
+    <img src="https://api.iconify.design/logos:python.svg?color=%23ff7bff" width="55" />
   </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
-    <img src="https://skillicons.dev/icons?i=cpp" width="50" style="filter:hue-rotate(300deg) brightness(1.7) saturate(2);" />
+
+  <!-- C++ -->
+  <a href="https://docs.microsoft.com/en-us/cpp/">
+    <img src="https://api.iconify.design/logos:c-plusplus.svg?color=%23ff7bff" width="55" />
   </a>
+
+  <!-- Git -->
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="50" style="filter:hue-rotate(300deg) brightness(1.7) saturate(2);" />
+    <img src="https://api.iconify.design/logos:git-icon.svg?color=%23ff7bff" width="55" />
   </a>
+
+  <!-- VS Code -->
   <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" style="filter:hue-rotate(300deg) brightness(1.7) saturate(2);" />
+    <img src="https://api.iconify.design/logos:visual-studio-code.svg?color=%23ff7bff" width="55" />
   </a>
+
+  <!-- Linux -->
   <a href="https://www.linux.org">
-    <img src="https://skillicons.dev/icons?i=linux" width="50" style="filter:hue-rotate(300deg) brightness(1.7) saturate(2);" />
+    <img src="https://api.iconify.design/logos:linux-tux.svg?color=%23ff7bff" width="55" />
   </a>
+
 </p>
+
 
 
 <!-- DIVIDER -->
