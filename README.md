@@ -64,43 +64,34 @@
 </p>
 <p align="center" style="margin-top: 10px;">
 
-  <!-- Java -->
+<p align="center">
+
   <a href="https://www.oracle.com/java/">
-    <img src="https://api.iconify.design/logos:java.svg" width="38" 
-         style="filter: drop-shadow(0 0 6px #ff7bff) brightness(1.4) saturate(1.8) hue-rotate(300deg);" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" width="38" />
   </a>
 
-  <!-- Python -->
   <a href="https://www.python.org/">
-    <img src="https://api.iconify.design/logos:python.svg" width="38" 
-         style="filter: drop-shadow(0 0 6px #ff7bff) brightness(1.4) saturate(1.8) hue-rotate(300deg);" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width="38" />
   </a>
 
-  <!-- C++ -->
   <a href="https://docs.microsoft.com/en-us/cpp/">
-    <img src="https://api.iconify.design/logos:c-plusplus.svg" width="38"
-         style="filter: drop-shadow(0 0 6px #ff7bff) brightness(1.4) saturate(1.8) hue-rotate(300deg);" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cpp.svg" width="38" />
   </a>
 
-  <!-- Git -->
   <a href="https://git-scm.com/">
-    <img src="https://api.iconify.design/logos:git-icon.svg" width="38"
-         style="filter: drop-shadow(0 0 6px #ff7bff) brightness(1.4) saturate(1.8) hue-rotate(300deg);" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" width="38" />
   </a>
 
-  <!-- VS Code -->
   <a href="https://code.visualstudio.com/">
-    <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="38"
-         style="filter: drop-shadow(0 0 6px #ff7bff) brightness(1.4) saturate(1.8) hue-rotate(300deg);" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vscode.svg" width="38" />
   </a>
 
-  <!-- Linux -->
   <a href="https://www.linux.org">
-    <img src="https://api.iconify.design/logos:linux-tux.svg" width="38"
-         style="filter: drop-shadow(0 0 6px #ff7bff) brightness(1.4) saturate(1.8) hue-rotate(300deg);" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/tux.svg" width="38" />
   </a>
 
 </p>
+
 
 
 
