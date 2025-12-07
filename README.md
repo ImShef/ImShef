@@ -81,10 +81,3 @@
   <img src="https://media1.tenor.com/m/U0jw_aRsAqAAAAAC/watamote-tomoko-kuroki.gif" alt="Tomoko GIF">
 </p>
 
-##
-
-<p align="center">
-  <a href="https://mynickname.com/id1839145">
-    <img src="https://mynickname.com/img.php?nick=ImShef&sert=24&text=t4" alt="Nickname ImShef" />
-  </a>
-</p>
