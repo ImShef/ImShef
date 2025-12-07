@@ -63,7 +63,7 @@
 
 <!-- STATS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=%F0%9F%98%8AGitHub+Stats%F0%9F%98%8A" alt="Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=38&duration=1&pause=1000&color=FF7BFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=%E2%AD%90%EF%B8%8FGitHub+Stats%E2%AD%90%EF%B8%8F" alt="Stats" />
 </p>
 
 <p align="center">
