@@ -66,31 +66,39 @@
 
 <p align="center">
 
+  <!-- Java -->
   <a href="https://www.oracle.com/java/">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" width="38" />
+    <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png100px/jp.png" width="0">
+    <img src="https://raw.githubusercontent.com/ImShef-Assets/pink-icons/main/java_pink.svg" width="40">
   </a>
 
+  <!-- Python -->
   <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width="38" />
+    <img src="https://raw.githubusercontent.com/ImShef-Assets/pink-icons/main/python_pink.svg" width="40">
   </a>
 
-  <a href="https://docs.microsoft.com/en-us/cpp/">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cpp.svg" width="38" />
+  <!-- C++ -->
+  <a href="https://learn.microsoft.com/en-us/cpp/">
+    <img src="https://raw.githubusercontent.com/ImShef-Assets/pink-icons/main/cpp_pink.svg" width="40">
   </a>
 
+  <!-- Git -->
   <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" width="38" />
+    <img src="https://raw.githubusercontent.com/ImShef-Assets/pink-icons/main/git_pink.svg" width="40">
   </a>
 
+  <!-- VS Code -->
   <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vscode.svg" width="38" />
+    <img src="https://raw.githubusercontent.com/ImShef-Assets/pink-icons/main/vscode_pink.svg" width="40">
   </a>
 
+  <!-- Linux -->
   <a href="https://www.linux.org">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/tux.svg" width="38" />
+    <img src="https://raw.githubusercontent.com/ImShef-Assets/pink-icons/main/linux_pink.svg" width="40">
   </a>
 
 </p>
+
 
 
 
