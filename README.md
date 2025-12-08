@@ -6,7 +6,7 @@
 <!-- DIVIDER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=1200&pause=1200&color=FF7BFF&center=true&vCenter=true&width=650&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~~+~~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~~+~~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~~+~~+(o_o)%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&duration=1200&pause=1200&color=FF7BFF&center=true&vCenter=true&width=700&height=50&lines=(%E3%81%A4%20%E2%97%95%E3%83%8E%E2%97%95)%E3%81%A4+~~+~~+(%2F%2F%E3%83%BB%E2%88%87%E3%83%BB%2F%2F);(%3E%E3%83%BB_%E3%83%BB%3C)+~~+~~+(%5E_%5E%3B);(%E0%B9%96%20%CD%A1%20%CA%96%20%CD%A1%20)%E0%B9%96+~~+~~+(o_o)%3F" 
   />
 </p>
 
