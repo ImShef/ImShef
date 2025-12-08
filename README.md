@@ -130,7 +130,7 @@
     <img src="https://api.iconify.design/mdi/discord.svg?color=%23ff7bff" width="45" />
   </a>
 
-  <a href="https://www.twitch.tv/delovoysvin">
+  <a href="https://www.twitch.tv/imshefh">
     <img src="https://api.iconify.design/mdi/twitch.svg?color=%23ff7bff" width="45" />
   </a>
 
